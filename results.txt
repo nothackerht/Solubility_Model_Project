@@ -1,7 +1,7 @@
 {
     "RMSE_Morgan": 1.1226406072374813,
     "RMSE_MACCS": 1.0416684402100806,
-    "Conda Environment": "solubility_env_py310",
+    "Conda Environment": "solubility_env",
     "Hyperparameters": {
         "hidden_layer_sizes": [
             100,
