@@ -1,0 +1,10 @@
+name: solubility_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - rdkit
+  - scikit-learn
